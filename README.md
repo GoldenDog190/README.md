@@ -2,7 +2,8 @@
 **Learning Journal Code 102**
 
 *Growth MindSet* 
-> It is believing in your own ability to continue to learn and grow through hard work and dedication.
+> Definition: 
+It is believing in your own ability to continue to learn and grow through hard work and dedication.
 
 **How to remain in a growth mindset:**
 1. Learn from mistakes and failers.
