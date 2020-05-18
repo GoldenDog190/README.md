@@ -1,17 +1,17 @@
 # Learning Journal
 **Code 102**
 
-##*Growth MindSet* 
+*Growth MindSet* 
 > Definition: 
 It is believing in your own ability to continue to learn and grow through hard work and dedication.
 
-###**How to remain in a growth mindset:**
+**How to remain in a growth mindset:**
 1. Learn from mistakes and failers.
 2. Don't compare yourself to others, they have had to learn it too.
 3. If you dont understand something now, you will come to understand it.
 
-##**Learning Markdown**
+**Learning Markdown**
 [Mastering Markdown on GitHub](www.)
 
-###*Markdown*
+*Markdown*
 >Definition:
