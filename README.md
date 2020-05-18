@@ -1,5 +1,5 @@
-# README.md
-**Learning Journal Code 102**
+# Learning Journal
+**Code 102**
 
 *Growth MindSet* 
 > Definition: 
