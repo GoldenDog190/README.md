@@ -30,7 +30,8 @@ It is believing in your own ability to continue to learn and grow through hard w
 **GitHub Video Summary**
 > GitHub is a code editor that allows the user to easily create a website by using a repository. 
 - The repository makes it easy to make a published website without the need for using HTML or CSS or JAVA, so anyone can use it to make a website whether you know coding or not. 
-- It has tools that make it easy to drop files, pictures, or website addresses. 
+- It has tools that make it easy to drop files, pictures, or website addresses.
+- No having to use a data base, so everything is connected linearly.
 - You can also make your website look nice with all ready made color and format schemes.
 - Github allows greater, direct control over the website you are making without having to go through a third party.
 - Businesses, as well as individual people, can change the world by using the straight forward format to create a website.
