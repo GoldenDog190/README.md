@@ -11,7 +11,20 @@ It is believing in your own ability to continue to learn and grow through hard w
 3. If you dont understand something now, you will come to understand it.
 
 **Learning Markdown**
-[Mastering Markdown on GitHub](www.)
+[Mastering Markdown on GitHub](https://guides.github.com/features/mastering-markdown/)
 
 *Markdown*
->Definition:it is
+>Definition:it is a way to style text on the web by controlling the display, word formatting, adding images, etc.
+- Example: **BOLD**
+
+**Markdown Syntax's**
+   - Example: 
+            1. Header #
+            2. Emphasis - *italic*
+            3. Making a List - 1,2,3,etc.
+*GitHub*
+> Own version of syntax making content easier to work with, and also gives a simpler format.
+- Example: making automatic links to URLS
+
+**GitHub Video Summary**
+> 
