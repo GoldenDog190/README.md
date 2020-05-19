@@ -35,3 +35,17 @@ It is believing in your own ability to continue to learn and grow through hard w
 - You can also make your website look nice with all ready made color and format schemes.
 - Github allows greater, direct control over the website you are making without having to go through a third party.
 - Businesses, as well as individual people, can change the world by using the straight forward format to create a website.
+
+**Revisions & the Cloud**
+
+*Version Control*
+> Definition: system that allows you to revisit various versions of a file or set of files by recording changes.
+
+- Types of Version Control
+1. Local Version Control Systems (VCS)
+2. Centralized Version Control System (CVCS)
+3. Distributed Version COntrol System (DVCS)
+
+**Git**
+> Definition: a DVCS that stores file system made up of snapshots.
+- Each time you save a changed version of project called commit, git saves a snapshot of file.
