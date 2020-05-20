@@ -1,6 +1,12 @@
 # Learning Journal
 **Code 102**
 
+**Table of Contents**
+- Growth MindSet
+- Learning Markdown
+- GitHub
+- Git
+
 *Growth MindSet* 
 > Definition: 
 It is believing in your own ability to continue to learn and grow through hard work and dedication.
@@ -49,3 +55,41 @@ It is believing in your own ability to continue to learn and grow through hard w
 **Git**
 > Definition: a DVCS that stores file system made up of snapshots.
 - Each time you save a changed version of project called commit, git saves a snapshot of file.
+- Relies on local operations
+- track changes done to files
+
+> 3 Main States of Git
+1. Commited
+2. Modified
+3. Staged
+ 
+ **Graphical Clients**
+- Git includes (GUI) Graphical User Interface tools
+- 3rd. Party clients include: source tree, git extention, smart git, etc...
+
+**Setting up Git Repository**
+- Cloning: to create copy of existing git repository from a server
+- Importing
+
+**Work Flow**
+- Local git repository has 3 components
+1. Working Directory
+2. Index
+3. Head
+
+*Snapshot* 
+- is created by git after you save a file, and is what the file looks like at one time.
+
+**Remote Repositories**
+> Definition: versions of a project residing online or network
+- Cloned Repositories
+- Seeing you remotes by running git remote command
+
+The reason why 
+
+**Reading 04 HTML**
+
+#HTML
+**HTML**
+> is a text document that describes the structure of pages, uses elements to describe the structure of pages,uses tags, and attributes tell more about elements.
+- Contains a body, head, and title
