@@ -1,6 +1,12 @@
 # Learning Journal
 **Code 102**
 
+**Table of Contents**
+- Growth MindSet
+- Learning Markdown
+- GitHub
+- Git
+
 *Growth MindSet* 
 > Definition: 
 It is believing in your own ability to continue to learn and grow through hard work and dedication.
@@ -143,4 +149,60 @@ It is believing in your own ability to continue to learn and grow through hard w
 **Git**
 > Definition: a DVCS that stores file system made up of snapshots.
 - Each time you save a changed version of project called commit, git saves a snapshot of file.
+<<<<<<< HEAD
 
+=======
+- Relies on local operations
+- track changes done to files
+
+> 3 Main States of Git
+1. Commited
+2. Modified
+3. Staged
+ 
+ **Graphical Clients**
+- Git includes (GUI) Graphical User Interface tools
+- 3rd. Party clients include: source tree, git extention, smart git, etc...
+
+**Setting up Git Repository**
+- Cloning: to create copy of existing git repository from a server
+- Importing
+
+**Work Flow**
+- Local git repository has 3 components
+1. Working Directory
+2. Index
+3. Head
+
+*Snapshot* 
+- is created by git after you save a file, and is what the file looks like at one time.
+
+**Remote Repositories**
+> Definition: versions of a project residing online or network
+- Cloned Repositories
+- Seeing you remotes by running git remote command
+
+The reason why 
+
+**Reading 04 HTML**
+
+#HTML
+**HTML**
+> is a text document that describes the structure of pages, uses elements to describe the structure of pages,uses tags, and attributes tell more about elements.
+- Contains a body, head, and title
+- opening tags and closing tags are placed around an attribute
+
+**HTML5 Layout**
+- New Layout elements come with it. Examples:
+1. header
+2. footer
+3. nav
+4. articles
+
+**Extra Markup**
+- Examples of extra markup
+1. DOCTYPES - <!DOCTYPE html>
+2. Comments in HTML - <!-- -->
+3. Block Elements - elements that will always appear to start on a new line in the browser of the window
+4. Inline Elements - elements that will always appear to continue on the same line as their nieghboring elements
+>>>>>>> 3e9ca74658e06c5f133921427aa72d3abecd69dd
