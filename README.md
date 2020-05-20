@@ -96,7 +96,7 @@ The reason why
 - opening tags and closing tags are placed around an attribute
 
 **You want to a follow a format that is similar to this:**
-<!DOCTYPE html>
+
 <html>
   <head>
       <title>Dog Breeds</title>
