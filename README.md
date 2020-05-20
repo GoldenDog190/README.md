@@ -93,3 +93,37 @@ The reason why
 **HTML**
 > is a text document that describes the structure of pages, uses elements to describe the structure of pages,uses tags, and attributes tell more about elements.
 - Contains a body, head, and title
+- opening tags and closing tags are placed around an attribute
+
+**You want to a follow a format that is similar to this:**
+<!DOCTYPE html>
+<html>
+  <head>
+      <title>Dog Breeds</title>
+  </head>
+  <body>
+      <h1>Golden Retriever Information</h1>
+       <img src= "https://placeholder.com/150"/>
+       <p>
+           Golden retrievers are know for thier kind and gentle nature. 
+           They are great with people of all ages, and are very patient.
+           Were breed to be bird hunting dogs with great sense of smell and hearing.
+           Also, they are very loyal to their family unit, and will worry about them if they are not near by.
+       </p>
+       <footer>Golden Retriever Footer</footer>
+  </body>
+</html>
+
+**HTML5 Layout**
+- New Layout elements come with it. Examples:
+1. <header>
+2. <footer>
+3. <nav>
+4. <articles>
+
+**Extra Markup**
+- Examples of extra markup
+1. DOCTYPES - <!DOCTYPE html>
+2. Comments in HTML - <!-- -->
+3. Block Elements - elements that will always appear to start on a new line in the browser of the window
+4. Inline Elements - elements that will always appear to continue on the same line as their nieghboring elements
