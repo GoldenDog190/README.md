@@ -2,33 +2,12 @@
 **Code 102**
 
 **Table of Contents**
-- Growth MindSet
-- Learning Markdown
-- Coders Computer
-- Revisions & the Cloud [coder-computer.md](https://goldendog190.github.io/coders-computer.md/)
-- HTML [index.html](https://goldendog190.github.io/index.html/)
+- [Growth-MindSet](learning-journal-code)
+- [Learning-Markdown](learning-journal-code)
+- [coder-computer.md](coders-computer.md)
+- []
 
-*Growth MindSet* 
-> Definition: 
-It is believing in your own ability to continue to learn and grow through hard work and dedication.
 
-**How to remain in a growth mindset:**
-1. Learn from mistakes and failers.
-2. Don't compare yourself to others, they have had to learn it too.
-3. If you dont understand something now, you will come to understand it.
-
-**Learning Markdown**
-[Mastering Markdown on GitHub](https://guides.github.com/features/mastering-markdown/)
-
-*Markdown*
->Definition:it is a way to style text on the web by controlling the display, word formatting, adding images, etc.
-- Example: **BOLD**
-
-**Markdown Syntax's**
-   - Example:  
-   1. Header #
-   2. Emphasis - using * to create *italicized words*
-   3. Making a List - 1,2,3,etc.
    
 *GitHub*
 > Uses its own version of syntax making content easier to work with, and also gives a simpler format.
