@@ -95,28 +95,12 @@ The reason why
 - Contains a body, head, and title
 - opening tags and closing tags are placed around an attribute
 
-**You want to a follow a format that is similar to this:**
-
-<html>
-  <head>
-      <title>Dog Breeds</title>
-  </head>
-  <body>
-      <h1></h1>
-      
-       <p>
-      
-       </p>
-       <footer>Golden Retriever Footer</footer>
-  </body>
-</html>
-
 **HTML5 Layout**
 - New Layout elements come with it. Examples:
-1. <header>
-2. <footer>
-3. <nav>
-4. <articles>
+1. header
+2. footer
+3. nav
+4. articles
 
 **Extra Markup**
 - Examples of extra markup
