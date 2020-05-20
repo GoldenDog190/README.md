@@ -4,8 +4,9 @@
 **Table of Contents**
 - Growth MindSet
 - Learning Markdown
-- GitHub
-- Git
+- Coders Computer
+- Revisions & the Cloud [coder-computer.md](https://goldendog190.github.io/coders-computer.md/)
+- HTML [index.html](https://goldendog190.github.io/index.html/)
 
 *Growth MindSet* 
 > Definition: 
@@ -205,4 +206,4 @@ The reason why
 2. Comments in HTML - <!-- -->
 3. Block Elements - elements that will always appear to start on a new line in the browser of the window
 4. Inline Elements - elements that will always appear to continue on the same line as their nieghboring elements
->>>>>>> 3e9ca74658e06c5f133921427aa72d3abecd69dd
+
