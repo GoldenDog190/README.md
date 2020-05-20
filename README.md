@@ -207,3 +207,5 @@ The reason why
 3. Block Elements - elements that will always appear to start on a new line in the browser of the window
 4. Inline Elements - elements that will always appear to continue on the same line as their nieghboring elements
 
+**CSS**
+- 
