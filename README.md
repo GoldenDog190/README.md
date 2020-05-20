@@ -24,7 +24,7 @@ It is believing in your own ability to continue to learn and grow through hard w
 - Example: **BOLD**
 
 **Markdown Syntax's**
-   - Example: 
+   - Example:  
    1. Header #
    2. Emphasis - using * to create *italicized words*
    3. Making a List - 1,2,3,etc.
