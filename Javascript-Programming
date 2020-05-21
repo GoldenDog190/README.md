@@ -1,1 +1,47 @@
-**Javascript Programming**
+# Javascript Programming
+**More about Javascript**
+> can be used in browsers to make websites more interactive, interesting, and user friendly.
+> encompasses many of the traditional rules of programming.
+> Ex. of javascript in browser: slideshows, forms, reload part of page, and filtering data.
+
+- How Javascript makes web pages more interactive:
+1. access content
+2. modify content
+3. program rules
+4. react to events
+
+**Script**
+- Script: a series of instructions that a computer can follow to achieve a goal
+- Writing a script:
+1. Define the goal
+2. Design the script
+3. Code each step
+- Designing a script:
+1. Work out individual tasks needed to achieve interactive
+2. Each task may be broken down to sequence pf steps
+- Steps to code:
+1. Define a goal & design script
+2. Sketch out tasks in flowchart
+
+**Basic Javascript Instructions**
+- Expressions: evaluates into a single value
+1. Expressions that assign a value to a variable. Example: var color = 'beige'; --> The value of color is now beige.
+2. Expressions that use 2 or more values to return a single value. Example: var area = 3 * 2; --> The value of the area is now 6.
+- Operators
+1. Assignment Operators
+2. Comparison Operators
+3. Logical Operators
+4. Arithmetic Operators
+5. String Operators
+
+- Arithmetic Operators: mathematical operators, which you can use numbers
+- String Operators: the + symbol. This is used to join strings on either side. Jioning 2 or more string to create one new string is called concatenation.
+
+**Functions**
+> let you group a series of statements together to forma specific task.
+- Declaring a Function: to create a function, you give it a name and then write the statements needed to achieve its task inside curly braces.
+- Calling a function: then exclude all of the statements bewteen its curly braces with just one line of code.
+- Declaring a function that need info.: sometimes a function needs specific info. to perform its task. When you declare the function you give it parameters, which act like variables.
+- Calling functions that need info.: when you call a function that has parameters, specify the values it should use in parenthesis that follow its name.
+1. These values are called arguments, and can be provided as value or variables. 
+- Getting a single value out of a function: some functions return info. to the code that called them. Ex: when they perform a calculation, they return the result.
