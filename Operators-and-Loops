@@ -1,1 +1,14 @@
-**Operators and Loops**
+#Operators and Loops
+
+**Comparision Operators**
+- Evaluating conditions: can evaluate a situation by comparing one value in the script to what you expect it might be. 
+- The results will be a Boolean: true or false
+
+**Logical Operators**
+> allow you to compare results of more than one comparison operator.
+- Types of Logical Operators
+1. Logical And: &&
+2. Logical Or: ||
+3. Logical Not: !
+-Short-Circuit Evaluation
+
