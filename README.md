@@ -4,9 +4,9 @@
 **Table of Contents**
 - [Growth MindSet](Growth-Mindset)
 - [Learning Markdown](Learning-Markdown)
-- [coder-computer.md](coders-computer.md)
-- [Revisions-and-the-Cloud](Revisions-and-the-cloud) 
+- [Coders Computer](coders-computer.md)
+- [Revisions-and-the-Cloud](Revisions-and-the-Cloud) 
 - [HTML](HTML)
-- [Designing-with-CSS]()
-- [Javascript-part-a-&-b]()
+- [Designing-with-CSS](Designing-with-CSS)
+- [Javascript Part A & B](Javascript-part-a-&-b)
 

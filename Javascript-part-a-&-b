@@ -1,0 +1,38 @@
+#Javascript Reading 
+
+**Javascript**
+> *Javascript* : A series of instructions that a computer can follow one by one. Each instruction is known as a statement, which ends with a semicolon.
+- HTML, CSS, and Javascript fit together, and each language forms a seperate layer with a different layer.
+- HTML - content layer
+- CSS - presentation layer
+- Javascript - behavior layer
+- These 3 layers form what is called a enhancement.
+- Javascript is written in plain text.
+- Data is stored in variables.
+- Data types: humeric, string, and boonlean
+
+**How Computers Work?**
+> Computers are tools used for thinking work and info. storage.
+- Input: stuff that you and the world does to tell what the computer what to do.
+- Storage: input is stored in memory using alorithm
+- Output: results of what was done on the computer.
+
+**Data & Binary**
+- Binary number system: a decimal system that only uses 0 & 1 
+- Text system: every leter has a value that is reprented by 0 & 1
+
+**Circuits & Logic**
+- Circuits: input signals that are used to put output together.
+- Simple circuit: takes a electrical signal and flips it.
+- Complicated circuit: takes multiple signals and combine them to give different results.
+
+**CPU, Memory, Input, & Output**
+- Central Processing Unit (CPU): calculates info. 
+- Memory: stores info.
+- Input: devises converts physical input to binary info.
+- Output: converts info. to physical output
+
+**Hardware & Software**
+- Hardware: stuff you can physically see. Ex. circuits or plugs
+- Software: stuff you don't physically on the computer. Ex. code 
+- Software tells CPU what to do

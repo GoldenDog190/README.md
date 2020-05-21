@@ -1,0 +1,15 @@
+**CSS Reading Summary**
+ *CSS*
+ > Cascading Style Sheet (CSS)
+ - CSS allows you to create rules that specify how content of element should appear
+ - With CSS imagine that there is an invisible box around every HTML element.
+ - CSS allows you to create rules that controlthe way each box is presented.
+ - CSS properties affect how elements are displayed.
+
+ **CSS Color**
+ > Color brings web pages to life!
+ - Foreground color: allows you to specify color of text insidean element.
+ - Background color: is chosen using RGB values, hex codes, and color names.
+ - Contrast: when picking a fore ground and background colors pay attentionto the contrast, and make sure there is enough of a contrast for the text to be legible.
+ - CSS introduces a new way to specify colors using hue, saturation, and light value.
+
