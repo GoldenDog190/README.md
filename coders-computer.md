@@ -91,4 +91,4 @@ Welcome to readers journal
 - .(full stop) - hidden file/ diectory start with this
 - a. - is used to make file hidden or rename file as such
 - (-a) - command option to show hidden file
-- Is -a  - lists contents of directory, including hidden files
+- Is -a  - lists contents of directory, including hidden files 

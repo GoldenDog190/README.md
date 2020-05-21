@@ -1,0 +1,44 @@
+*Version Control*
+> Definition: system that allows you to revisit various versions of a file or set of files by recording changes.
+
+- Types of Version Control
+1. Local Version Control Systems (VCS)
+2. Centralized Version Control System (CVCS)
+3. Distributed Version COntrol System (DVCS)
+
+**Git**
+> Definition: a DVCS that stores file system made up of snapshots.
+- Each time you save a changed version of project called commit, git saves a snapshot of file.
+<<<<<<< HEAD
+
+=======
+- Relies on local operations
+- track changes done to files
+
+> 3 Main States of Git
+1. Commited
+2. Modified
+3. Staged
+ 
+ **Graphical Clients**
+- Git includes (GUI) Graphical User Interface tools
+- 3rd. Party clients include: source tree, git extention, smart git, etc...
+
+**Setting up Git Repository**
+- Cloning: to create copy of existing git repository from a server
+- Importing
+
+**Work Flow**
+- Local git repository has 3 components
+1. Working Directory
+2. Index
+3. Head
+
+*Snapshot* 
+- is created by git after you save a file, and is what the file looks like at one time.
+
+**Remote Repositories**
+> Definition: versions of a project residing online or network
+- Cloned Repositories
+- Seeing you remotes by running git remote command
+
